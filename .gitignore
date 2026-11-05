@@ -1,0 +1,8 @@
+.DS_Store
+out/
+target/
+build/
+.gradle/
+.idea/
+local.properties
+google-services.json
